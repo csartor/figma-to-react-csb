@@ -1,0 +1,10 @@
+.animaTest {
+  position: relative;
+  background-color: #13151c;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 84.25196838378906px 151.65354919433594px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}

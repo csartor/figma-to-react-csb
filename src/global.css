@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Electrolize:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-electrolize: Electrolize;
+
+  /* Colors */
+  --color-turquoise-100: #2bede6;
+  --color-turquoise-200: rgba(43, 237, 230, 0.2);
+}

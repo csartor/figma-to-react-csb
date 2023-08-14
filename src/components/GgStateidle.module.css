@@ -1,0 +1,29 @@
+.label {
+  position: relative;
+  font-size: 14.95px;
+  letter-spacing: 0.04em;
+  font-family: var(--font-electrolize);
+  color: var(--color-turquoise-100);
+  text-align: center;
+  text-shadow: 0 0 8.72px #2bede6;
+}
+.ggstateidle,
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper {
+  width: 116.27px;
+  flex-direction: row;
+  padding: 13.480315208435059px 26.960630416870117px;
+  box-sizing: border-box;
+}
+.ggstateidle {
+  cursor: pointer;
+  border: 1px solid var(--color-turquoise-200);
+  padding: 0;
+  background-color: var(--color-turquoise-200);
+  position: relative;
+  flex-direction: column;
+}
